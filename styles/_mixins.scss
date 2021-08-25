@@ -1,0 +1,34 @@
+@use './variables';
+
+@mixin mobile() {
+    @media screen and (max-width: variables.$mobile-activation-width) {
+        @content;
+    }
+}
+
+@mixin custom($width) {
+    @media screen and (max-width: $width) {
+        @content;
+    }
+}
+
+@mixin responsive-image() {
+    width: 100%;
+    height: auto;
+}
+
+@mixin flexify($alignItems, $justifyContent, $flexDirection) {
+    display: flex;
+
+    @if ($alignItems) {
+        align-items: $alignItems;
+    }
+
+    @if ($justifyContent) {
+        justify-content: $justifyContent;
+    }
+
+    @if ($flexDirection) {
+        flex-direction: $flexDirection;
+    }
+}
