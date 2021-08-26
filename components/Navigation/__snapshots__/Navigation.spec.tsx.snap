@@ -1,0 +1,94 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Navigation Component renders 1`] = `
+<nav
+  class="mbanc-navigation"
+>
+  <div
+    class="navigation-content"
+  >
+    <a
+      aria-label="Home Mbanc Page Link"
+      href="https://www.mbanc.com"
+    >
+      <picture>
+        <source
+          srcset="/images/logo.svg"
+        />
+        <img
+          alt="Mbanc Logo"
+          class="mbanc-logo"
+          loading="lazy"
+          src="/images/logo.svg"
+        />
+      </picture>
+    </a>
+    <div
+      class="dropdown-activator"
+    >
+      <p
+        class="dropdown-text"
+      >
+        Loan Programs
+        <svg
+          aria-hidden="true"
+          class="svg-inline--fa fa-caret-down fa-w-10 caret-down"
+          data-icon="caret-down"
+          data-prefix="fas"
+          focusable="false"
+          role="img"
+          viewBox="0 0 320 512"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <path
+            d="M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z"
+            fill="currentColor"
+          />
+        </svg>
+      </p>
+    </div>
+    <a
+      aria-label="Licenses Mbanc Page Link"
+      class="regular-link"
+      href="https://www.mbanc.com/licensing"
+    >
+      Licenses
+    </a>
+    <a
+      aria-label="About Us Mbanc Page Link"
+      class="regular-link"
+      href="https://www.mbanc.com/about-us"
+    >
+      About Us
+    </a>
+    <a
+      aria-label="Prime Jumbo Mbanc Page Link"
+      class="apply-now"
+      href="https://www.mbanc.com/prime-jumbo-super-jumbo"
+    >
+      Apply Now
+    </a>
+  </div>
+  <button
+    aria-label="Mbanc Mobile Menu Open Button"
+    class="mobile-menu-button"
+    type="button"
+  >
+    <svg
+      aria-hidden="true"
+      class="svg-inline--fa fa-bars fa-w-14 "
+      data-icon="bars"
+      data-prefix="fas"
+      focusable="false"
+      role="img"
+      viewBox="0 0 448 512"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M16 132h416c8.837 0 16-7.163 16-16V76c0-8.837-7.163-16-16-16H16C7.163 60 0 67.163 0 76v40c0 8.837 7.163 16 16 16zm0 160h416c8.837 0 16-7.163 16-16v-40c0-8.837-7.163-16-16-16H16c-8.837 0-16 7.163-16 16v40c0 8.837 7.163 16 16 16zm0 160h416c8.837 0 16-7.163 16-16v-40c0-8.837-7.163-16-16-16H16c-8.837 0-16 7.163-16 16v40c0 8.837 7.163 16 16 16z"
+        fill="currentColor"
+      />
+    </svg>
+  </button>
+</nav>
+`;
