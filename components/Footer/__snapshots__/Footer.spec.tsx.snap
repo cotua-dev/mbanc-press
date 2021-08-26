@@ -1,0 +1,322 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Footer Component renders 1`] = `
+<footer
+  class="mbanc-footer"
+>
+  <div
+    class="content-wrapper"
+  >
+    <div
+      class="mbanc-info-wrapper"
+    >
+      <div
+        class="mbanc-social"
+      >
+        <picture>
+          <source
+            srcset="/images/logo-inverted.svg"
+          />
+          <img
+            alt="Mbanc Inverted Logo"
+            class="mbanc-inverted-logo"
+            loading="lazy"
+            src="/images/logo-inverted.svg"
+          />
+        </picture>
+        <div
+          class="positively-simple-wrapper"
+        >
+          <span
+            class="positively"
+          >
+            Positively
+          </span>
+          <span
+            class="simple"
+          >
+            Simple
+          </span>
+        </div>
+        <address
+          class="mbanc-address"
+        >
+          1141 Highland Avenue, Suite C
+          <br />
+          Manhattan Beach, CA 90266
+        </address>
+        <div
+          class="mbanc-social-media"
+        >
+          <a
+            aria-label="Mbanc Facebook Social Media Page Link"
+            class="social-media"
+            href="https://www.facebook.com/gombanc"
+          >
+            <svg
+              aria-hidden="true"
+              class="svg-inline--fa fa-facebook-f fa-w-10 "
+              data-icon="facebook-f"
+              data-prefix="fab"
+              focusable="false"
+              role="img"
+              viewBox="0 0 320 512"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M279.14 288l14.22-92.66h-88.91v-60.13c0-25.35 12.42-50.06 52.24-50.06h40.42V6.26S260.43 0 225.36 0c-73.22 0-121.08 44.38-121.08 124.72v70.62H22.89V288h81.39v224h100.17V288z"
+                fill="currentColor"
+              />
+            </svg>
+          </a>
+          <a
+            aria-label="Mbanc Instagram Social Media Page Link"
+            class="social-media"
+            href="https://www.instagram.com/gombanc"
+          >
+            <svg
+              aria-hidden="true"
+              class="svg-inline--fa fa-instagram fa-w-14 "
+              data-icon="instagram"
+              data-prefix="fab"
+              focusable="false"
+              role="img"
+              viewBox="0 0 448 512"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z"
+                fill="currentColor"
+              />
+            </svg>
+          </a>
+          <a
+            aria-label="Mbanc LinkedIn Social Media Page Link"
+            class="social-media"
+            href="https://www.linkedin.com/company/mbanc"
+          >
+            <svg
+              aria-hidden="true"
+              class="svg-inline--fa fa-linkedin-in fa-w-14 "
+              data-icon="linkedin-in"
+              data-prefix="fab"
+              focusable="false"
+              role="img"
+              viewBox="0 0 448 512"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M100.28 448H7.4V148.9h92.88zM53.79 108.1C24.09 108.1 0 83.5 0 53.8a53.79 53.79 0 0 1 107.58 0c0 29.7-24.1 54.3-53.79 54.3zM447.9 448h-92.68V302.4c0-34.7-.7-79.2-48.29-79.2-48.29 0-55.69 37.7-55.69 76.7V448h-92.78V148.9h89.08v40.8h1.3c12.4-23.5 42.69-48.3 87.88-48.3 94 0 111.28 61.9 111.28 142.3V448z"
+                fill="currentColor"
+              />
+            </svg>
+          </a>
+          <a
+            aria-label="Mbanc Twitter Social Media Page Link"
+            class="social-media"
+            href="https://twitter.com/gombanc"
+          >
+            <svg
+              aria-hidden="true"
+              class="svg-inline--fa fa-twitter fa-w-16 "
+              data-icon="twitter"
+              data-prefix="fab"
+              focusable="false"
+              role="img"
+              viewBox="0 0 512 512"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"
+                fill="currentColor"
+              />
+            </svg>
+          </a>
+        </div>
+      </div>
+      <div
+        class="mbanc-contact"
+      >
+        <strong
+          class="subtitle"
+        >
+          Contact Us
+        </strong>
+        <div
+          class="contacts-wrapper"
+        >
+          <strong
+            class="heading"
+          >
+            Corporate
+          </strong>
+          <a
+            aria-label="Mbanc Corporate Phone Number"
+            class="contact"
+            href="tel:+18888226418"
+          >
+            (888) 822-6418
+          </a>
+          <a
+            aria-label="Mbanc Corporate Email"
+            class="contact"
+            href="mailto:contact@mbanc.com"
+          >
+            contact@mbanc.com
+          </a>
+        </div>
+        <div
+          class="contacts-wrapper"
+        >
+          <strong
+            class="heading"
+          >
+            Sales
+          </strong>
+          <a
+            aria-label="Mbanc Sales Phone Number"
+            class="contact"
+            href="tel:+18449181886"
+          >
+            (844) 918-1886
+          </a>
+          <a
+            aria-label="Mbanc Sales Email"
+            class="contact"
+            href="mailto:sales@mbanc.com"
+          >
+            sales@mbanc.com
+          </a>
+        </div>
+      </div>
+      <div
+        class="mbanc-company"
+      >
+        <strong>
+          Company
+        </strong>
+        <ul>
+          <li>
+            <a
+              aria-label="Mbanc About Us Page Link"
+              href="https://www.mbanc.com/about-us"
+            >
+              About Us
+            </a>
+          </li>
+          <li>
+            <a
+              aria-label="Mbanc Licenses Page Link"
+              href="https://www.mbanc.com/licensing"
+            >
+              Licenses
+            </a>
+          </li>
+          <li>
+            <a
+              aria-label="Mbanc Privacy Policy Page Link"
+              href="https://www.mbanc.com/privacy-policy"
+            >
+              Privacy Policy
+            </a>
+          </li>
+          <li>
+            <a
+              aria-label="Mbanc Terms Of Use Page Link"
+              href="https://www.mbanc.com/terms-of-use"
+            >
+              Terms of Use
+            </a>
+          </li>
+          <li>
+            <a
+              aria-label="Mbanc Blog Link"
+              href="https://blog.mbanc.com"
+            >
+              Blog
+            </a>
+          </li>
+        </ul>
+      </div>
+      <div
+        class="mbanc-programs"
+      >
+        <strong>
+          Mortgage Programs
+        </strong>
+        <ul>
+          <li>
+            <a
+              aria-label="Prime Jumbo Mbanc Page Link"
+              href="https://www.mbanc.com/prime-jumbo-super-jumbo"
+            >
+              Prime Jumbo
+            </a>
+          </li>
+          <li>
+            <a
+              aria-label="Bank Statement Jumbo Mbanc Page Link"
+              href="https://www.mbanc.com/non-qm-bank-statement"
+            >
+              Bank Statement Jumbo
+            </a>
+          </li>
+          <li>
+            <a
+              aria-label="1099 Jumbo Mbanc Page Link"
+              href="https://www.mbanc.com/non-qm-1099"
+            >
+              1099 Jumbo
+            </a>
+          </li>
+          <li>
+            <a
+              aria-label="Rental Income DSCR Mbanc Page Link"
+              href="https://www.mbanc.com/non-qm-dscr"
+            >
+              Rental Income DSCR
+            </a>
+          </li>
+          <li>
+            <a
+              aria-label="Foreign National Mbanc Page Link"
+              href="https://www.mbanc.com/foreign-national"
+            >
+              Foreign National
+            </a>
+          </li>
+          <li>
+            <a
+              aria-label="Conventional Jumbo Mbanc Page Link"
+              href="https://www.mbanc.com/conventional-high-balance"
+            >
+              Conventional Jumbo
+            </a>
+          </li>
+          <li>
+            <a
+              aria-label="Interest Only Jumbo Mbanc Page Link"
+              href="https://www.mbanc.com/interest-only-jumbo"
+            >
+              Interest Only Jumbo
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+    <p
+      class="licensing"
+    >
+      MBANC, A MORTGAGE LENDER. MORTGAGE BANK OF CALIFORNIA DBA MBANC. NMLS ID # 38232 (NMLS CONSUMER ACCESS SITE). ARIZONA MORTGAGE BANKER LICENSE - LICENSE # 0943170. CALIFORNIA - DBO FINANCE LENDERS LAW LICENSE - LICENSE # 60DBO45280. CALIFORNIA - DRE REAL ESTATE CORPORATION LICENSE ENDORSEMENT - LICENSE # 01521655. COLORADO MORTGAGE COMPANY REGISTRATION - REGULATED BY THE DIVISION OF REAL ESTATE. CONNECTICUT MORTGAGE LENDER LICENSE - LICENSE # ML-38232. DISTRICT OF COLUMBIA MORTGAGE DUAL AUTHORITY LICENSE - LICENSE # MLB38232. FLORIDA MORTGAGE LENDER LICENSE - LICENSE # MLD1287. GEORGIA MORTGAGE LENDER LICENSE/REGISTRATION - LICENSE # 48090 (DBA MBOC HOME LOANS). HAWAII MORTGAGE LOAN ORIGINATOR COMPANY LICENSE - LICENSE # HI-38232 (DBA MBOC HOME LOANS). IDAHO MORTGAGE BROKER/LENDER LICENSE - LICENSE # MBL-2080038232. ILLINOIS RESIDENTIAL MORTGAGE LICENSE - LICENSE # MB.6761396. MARYLAND MORTGAGE LENDER LICENSE - LICENSE # 21870. MICHIGAN 1ST MORTGAGE BROKER/LENDER LICENSE - LICENSE # FL0022526. NEW JERSEY RESIDENTIAL MORTGAGE LENDER LICENSE - REGULATED BY THE DEPARTMENT OF BANKING & INSURANCE. NORTH CAROLINA MORTGAGE LENDER LICENSE - LICENSE # L-183446. OHIO RESIDENTIAL MORTGAGE LENDING ACT CERTIFICATE OF REGISTRATION - LICENSE # RM.804374.000. OREGON MORTGAGE LENDING LICENSE - LICENSE # ML-5804. PENNSYLVANIA MORTGAGE LENDER LICENSE - LICENSE # 71003. SOUTH CAROLINA-BFI MORTGAGE LENDER / SERVICER LICENSE - LICENSE # MLS - 38232, MLS - 38232 OTN #1 (DBA MBOC HOME LOANS). TENNESSEE MORTGAGE LICENSE - LICENSE # 178934. TEXAS - SML MORTGAGE BANKER REGISTRATION - REGULATED BY THE DEPARTMENT OF SAVINGS AND MORTGAGE LENDING. UTAH MORTGAGE ENTITY LICENSE - LICENSE # 10877496, 10826912, 10827018. VIRGINIA LENDER LICENSE - LICENSE # MC-6638. WASHINGTON CONSUMER LOAN COMPANY LICENSE - LICENSE # CL-38232. WYOMING MORTGAGE LENDER/BROKER LICENSE – LICENSE # 3912. 
+      <a
+        href="https://www.nmlsconsumeraccess.org/"
+        rel="noopener noreferrer"
+        target="_blank"
+      >
+        NMLS CONSUMER ACCESS SITE
+      </a>
+       NEITHER MBANC NOR MORTGAGE BANK OF CALIFORNIA IS A CHARTERED BANK OR TRUST COMPANY, OR DEPOSITORY INSTITUTION. THEY ARE NOT AUTHORIZED TO ACCEPT DEPOSITS OR TRUST ACCOUNTS AND ARE NOT LICENSED OR REGULATED BY ANY STATE OR FEDERAL BANKING AUTHORITY. APR of 6.627% BASED ON AN INVESTMENT PROPERTY CASH OUT 60% LTV WITH A FICO OF 688 ON A POSITIVE DEBT SERVICE TRANSACTION WITH 1% ORIGINATION FEE WITH A LOAN AMOUNT OF 177K APR OF 7.757% BASED ON A PRIMARY PROPERTY CASH OUT AT 55% LTV WITH A FICO OF 652 ON A 24 MO BUSINESS BANK STATEMENT TRANSACTION WITH A $9000 ORIGINATION FEE WITH A LOAN AMOUNT OF 605K APR OF 7.275% BASED ON AN INVESTMENT PROPERTY PURCHASE AT 75% LTV WITH A FICO OF 762 ON A NEGATIVE DEBT SERVICE TRANSACTION WITH 1.25% ORIGINATION FEE WITH A LOAN AMOUNT OF 1,269,750 APR OF 5.298% BASED ON A PRIMARY PROPERTY PURCHASE AT 80% LTV WITH A FICO OF 773 ON A 12 MO BANK STATEMENT TRANSACTION WITH A 2% ORIGINATION FEE WITH A LOAN AMOUNT OF 184K THE ABOVE INFORMATION IS BASED ON SPECIFIC SCENARIONS. RATES AND FEES ARE SUBJECT TO CHANGE AND BORROWERS MUST MEET GUIDELINE CRITERIA TO QUALIFY.
+    </p>
+  </div>
+</footer>
+`;
