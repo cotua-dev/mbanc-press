@@ -1,4 +1,5 @@
 import Head from 'next/head';
+import { Navigation } from '../components/Navigation';
 
 interface HomeStaticProps {
     props: {};
@@ -27,9 +28,8 @@ export default function Home(): JSX.Element {
                 <link rel="apple-touch-icon" href="/images/icons/android/android-launchericon-192-192.png"/>
                 <link rel="manifest" href="/manifest.json"/>
             </Head>
-            <main>
-                <h1>{`Mbanc Press`}</h1>
-            </main>
+            <Navigation/>
+            <main></main>
         </>
     );
 }
