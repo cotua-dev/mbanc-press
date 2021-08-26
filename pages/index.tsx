@@ -1,5 +1,6 @@
 import Head from 'next/head';
 import { Navigation } from '../components/Navigation';
+import { Footer } from '../components/Footer';
 import { InThePress } from '../components/InThePress';
 
 interface HomeStaticProps {
@@ -33,6 +34,7 @@ export default function Home(): JSX.Element {
             <main>
                 <InThePress/>
             </main>
+            <Footer/>
         </>
     );
 }
