@@ -65,6 +65,7 @@ nav.mbanc-navigation {
                 border-radius: 20px;
                 box-shadow: 0 10px 20px #00000030,0 6px 6px #0000003b;
                 position: absolute;
+                z-index: 100;
 
                 &::after {
                     background-color: variables.$primary-color;
@@ -144,11 +145,12 @@ nav.mbanc-navigation {
 
         @include mixins.mobile {
             @include mixins.flexify(false, false, column);
-            position: absolute;
+            position: fixed;
             border-radius: 10px;
             width: calc(100% - 30px);
             box-shadow: 0 10px 20px #00000030,0 6px 6px #0000003b;
             z-index: 100;
+            background-color: #FFFFFF;
         }
 
         div.mobile-menu-header {
