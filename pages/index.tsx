@@ -1,5 +1,6 @@
 import Head from 'next/head';
 import { Navigation } from '../components/Navigation';
+import { InThePress } from '../components/InThePress';
 
 interface HomeStaticProps {
     props: {};
@@ -29,7 +30,9 @@ export default function Home(): JSX.Element {
                 <link rel="manifest" href="/manifest.json"/>
             </Head>
             <Navigation/>
-            <main></main>
+            <main>
+                <InThePress/>
+            </main>
         </>
     );
 }

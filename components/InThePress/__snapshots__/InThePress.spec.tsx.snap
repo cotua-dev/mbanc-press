@@ -1,0 +1,301 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`InThePress Component renders 1`] = `
+<section
+  class="in-the-press"
+>
+  <div
+    class="jumbotron"
+  >
+    <picture>
+      <source
+        srcset="/images/press/press_m.svg"
+      />
+      <img
+        alt="Mbanc Press Logo"
+        class="press-logo"
+        loading="lazy"
+        src="/images/press/press_m.svg"
+      />
+    </picture>
+  </div>
+  <div
+    class="press-header"
+  >
+    <picture>
+      <source
+        srcset="/images/press/press.svg"
+      />
+      <img
+        alt="Mbanc Press Icon"
+        class="press-header-logo"
+        loading="lazy"
+        src="/images/press/press.svg"
+      />
+    </picture>
+    <h1
+      class="title"
+    >
+      <span>
+        MBANC
+      </span>
+       In The Press
+    </h1>
+  </div>
+  <hr
+    class="separator"
+  />
+  <div
+    class="quote-wrapper"
+  >
+    <picture>
+      <source
+        srcset="/images/press/TheWashingtonPost.svg"
+      />
+      <img
+        alt="The Washington Post Logo"
+        class="news-logo "
+        height="46"
+        loading="lazy"
+        src="/images/press/TheWashingtonPost.svg"
+        width="300"
+      />
+    </picture>
+    <div
+      class="entire-quote"
+    >
+      <span
+        class="quote"
+      >
+        “
+      </span>
+      <blockquote
+        cite="https://www.washingtonpost.com/business/2021/08/19/how-qualify-mortgage-with-uneven-income"
+        class="quote"
+      >
+        <strong
+          class="catch-phrase"
+        >
+          What we have noticed is the performance of these loans are better than your traditional conventional loans.
+        </strong>
+        <p
+          class="remainder"
+        >
+          As the mortgage servicers who deal in non-QM loans establish positive performance trends, non-QM loan programs will continue to expand.
+        </p>
+      </blockquote>
+    </div>
+    <a
+      class="quote-link"
+      href="https://www.washingtonpost.com/business/2021/08/19/how-qualify-mortgage-with-uneven-income"
+      target="_blank"
+    >
+      The Washington Post
+    </a>
+  </div>
+  <hr
+    class="separator"
+  />
+  <div
+    class="quote-wrapper"
+  >
+    <picture>
+      <source
+        srcset="/images/press/yahoo.svg"
+      />
+      <img
+        alt="Yahoo Logo"
+        class="news-logo "
+        height="55"
+        loading="lazy"
+        src="/images/press/yahoo.svg"
+        width="200"
+      />
+    </picture>
+    <div
+      class="entire-quote"
+    >
+      <span
+        class="quote"
+      >
+        “
+      </span>
+      <blockquote
+        cite="https://finance.yahoo.com/finance/news/prepare-housing-market-crash-2021-120051439.html"
+        class="quote"
+      >
+        <strong
+          class="catch-phrase"
+        >
+          What’s different today from what we saw in 2008
+        </strong>
+        <p
+          class="remainder"
+        >
+          is that people who are qualifying for loans are actually qualified. They are creditworthy.
+        </p>
+      </blockquote>
+    </div>
+    <a
+      class="quote-link"
+      href="https://finance.yahoo.com/finance/news/prepare-housing-market-crash-2021-120051439.html"
+      target="_blank"
+    >
+      Yahoo!
+    </a>
+  </div>
+  <hr
+    class="separator"
+  />
+  <div
+    class="quote-wrapper"
+  >
+    <picture>
+      <source
+        srcset="/images/press/USAToday.svg"
+      />
+      <img
+        alt="USA Today Logo"
+        class="news-logo usa-sun-fix"
+        height="70"
+        loading="lazy"
+        src="/images/press/USAToday.svg"
+        width="300"
+      />
+    </picture>
+    <div
+      class="entire-quote"
+    >
+      <span
+        class="quote"
+      >
+        “
+      </span>
+      <blockquote
+        cite="https://www.usatoday.com/story/sponsor-story/mbanc/2021/03/22/how-unconventional-approach-mortgages-helped-two-entrepreneurs/4725567001"
+        class="quote"
+      >
+        <strong
+          class="catch-phrase"
+        >
+          MBANC has a different view on how you should qualify for a mortgage.
+        </strong>
+        <p
+          class="remainder"
+        >
+          The lender personalizes the qualification process and looks at you holistically.
+        </p>
+      </blockquote>
+    </div>
+    <a
+      class="quote-link"
+      href="https://www.usatoday.com/story/sponsor-story/mbanc/2021/03/22/how-unconventional-approach-mortgages-helped-two-entrepreneurs/4725567001"
+      target="_blank"
+    >
+      USA Today
+    </a>
+  </div>
+  <hr
+    class="separator"
+  />
+  <div
+    class="quote-wrapper"
+  >
+    <picture>
+      <source
+        srcset="/images/press/TheSun.svg"
+      />
+      <img
+        alt="The Sun Logo"
+        class="news-logo usa-sun-fix"
+        height="87"
+        loading="lazy"
+        src="/images/press/TheSun.svg"
+        width="200"
+      />
+    </picture>
+    <div
+      class="entire-quote"
+    >
+      <span
+        class="quote"
+      >
+        “
+      </span>
+      <blockquote
+        cite="https://www.the-sun.com/money/3288694/how-pay-off-mortgage-years-early"
+        class="quote"
+      >
+        <strong
+          class="catch-phrase"
+        >
+          Although it might feel good to know you fully own your home,
+        </strong>
+        <p
+          class="remainder"
+        >
+          there might be more financially savvy places to put your money.
+        </p>
+      </blockquote>
+    </div>
+    <a
+      class="quote-link"
+      href="https://www.the-sun.com/money/3288694/how-pay-off-mortgage-years-early"
+      target="_blank"
+    >
+      The Sun
+    </a>
+  </div>
+  <hr
+    class="separator"
+  />
+  <div
+    class="quote-wrapper"
+  >
+    <picture>
+      <source
+        srcset="/images/press/USAToday.svg"
+      />
+      <img
+        alt="USA Today Logo"
+        class="news-logo usa-sun-fix"
+        height="70"
+        loading="lazy"
+        src="/images/press/USAToday.svg"
+        width="300"
+      />
+    </picture>
+    <div
+      class="entire-quote"
+    >
+      <span
+        class="quote"
+      >
+        “
+      </span>
+      <blockquote
+        cite="https://www.usatoday.com/story/sponsor-story/mbanc/2021/02/18/self-employed-and-want-buy-home-process-easier-than-expected/6769814002"
+        class="quote"
+      >
+        <strong
+          class="catch-phrase"
+        >
+          Because MBANC is funded by private investors looking for entrepreneurs to whom they can lend,
+        </strong>
+        <p
+          class="remainder"
+        >
+          it controls all of its loan analysis and decision-making.
+        </p>
+      </blockquote>
+    </div>
+    <a
+      class="quote-link"
+      href="https://www.usatoday.com/story/sponsor-story/mbanc/2021/02/18/self-employed-and-want-buy-home-process-easier-than-expected/6769814002"
+      target="_blank"
+    >
+      USA Today
+    </a>
+  </div>
+</section>
+`;
