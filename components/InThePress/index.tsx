@@ -57,6 +57,7 @@ export function InThePress(): JSX.Element {
                             className={styles['quote-link']}
                             href={quote.quoteURL}
                             target="_blank"
+                            rel="noreferrer"
                         >{quote.newsOutlet}</a>
                     </div>
                 </Fragment>
