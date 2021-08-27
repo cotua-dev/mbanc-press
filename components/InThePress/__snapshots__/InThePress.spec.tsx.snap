@@ -88,6 +88,7 @@ exports[`InThePress Component renders 1`] = `
     <a
       class="quote-link"
       href="https://www.washingtonpost.com/business/2021/08/19/how-qualify-mortgage-with-uneven-income"
+      rel="noreferrer"
       target="_blank"
     >
       The Washington Post
@@ -139,6 +140,7 @@ exports[`InThePress Component renders 1`] = `
     <a
       class="quote-link"
       href="https://finance.yahoo.com/finance/news/prepare-housing-market-crash-2021-120051439.html"
+      rel="noreferrer"
       target="_blank"
     >
       Yahoo!
@@ -190,6 +192,7 @@ exports[`InThePress Component renders 1`] = `
     <a
       class="quote-link"
       href="https://www.usatoday.com/story/sponsor-story/mbanc/2021/03/22/how-unconventional-approach-mortgages-helped-two-entrepreneurs/4725567001"
+      rel="noreferrer"
       target="_blank"
     >
       USA Today
@@ -241,6 +244,7 @@ exports[`InThePress Component renders 1`] = `
     <a
       class="quote-link"
       href="https://www.the-sun.com/money/3288694/how-pay-off-mortgage-years-early"
+      rel="noreferrer"
       target="_blank"
     >
       The Sun
@@ -292,6 +296,7 @@ exports[`InThePress Component renders 1`] = `
     <a
       class="quote-link"
       href="https://www.usatoday.com/story/sponsor-story/mbanc/2021/02/18/self-employed-and-want-buy-home-process-easier-than-expected/6769814002"
+      rel="noreferrer"
       target="_blank"
     >
       USA Today

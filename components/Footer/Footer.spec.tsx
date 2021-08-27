@@ -1,4 +1,4 @@
-import { render, RenderResult } from '@testing-library/react';
+import { cleanup, render, RenderResult } from '@testing-library/react';
 import { Footer } from './index';
 
 describe('Footer Component', (): void => {
@@ -11,5 +11,5 @@ describe('Footer Component', (): void => {
         expect(container.firstChild).toMatchSnapshot();
     });
 
-    afterAll((): void => renderResult.unmount());
+    afterAll(cleanup);
 });
