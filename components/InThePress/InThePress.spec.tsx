@@ -1,4 +1,4 @@
-import { render, RenderResult } from '@testing-library/react';
+import { cleanup, render, RenderResult } from '@testing-library/react';
 import { InThePress } from './index';
 
 describe('InThePress Component', (): void => {
@@ -11,5 +11,5 @@ describe('InThePress Component', (): void => {
         expect(container.firstChild).toMatchSnapshot();
     });
 
-    afterAll((): void => renderResult.unmount());
+    afterAll(cleanup);
 });
