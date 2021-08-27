@@ -79,6 +79,16 @@ export function Navigation(): JSX.Element {
                     aria-label="About Us Mbanc Page Link"
                 >{`About Us`}</a>
                 <a
+                    className={styles['regular-link']}
+                    href="https://press.mbanc.com"
+                    aria-label="Press Mbanc Page Link"
+                >{`Press`}</a>
+                <a
+                    className={styles['regular-link']}
+                    href="https://blog.mbanc.com"
+                    aria-label="Blog Mbanc Page Link"
+                >{`Blog`}</a>
+                <a
                     className={styles['apply-now']}
                     href="https://www.mbanc.com/prime-jumbo-super-jumbo"
                     aria-label="Prime Jumbo Mbanc Page Link"
@@ -128,6 +138,20 @@ export function Navigation(): JSX.Element {
                                     href="https://www.mbanc.com/licensing"
                                     aria-label="Licenses Mbanc Page Link"
                                 >{`Licenses`}</a>
+                            </li>
+                            <li className={styles['list-item']}>
+                                <a
+                                    className={styles['link']}
+                                    href="https://press.mbanc.com"
+                                    aria-label="Press Mbanc Page Link"
+                                >{`Press`}</a>
+                            </li>
+                            <li className={styles['list-item']}>
+                                <a
+                                    className={styles['link']}
+                                    href="https://blog.mbanc.com"
+                                    aria-label="Blog Mbanc Page Link"
+                                >{`Blog`}</a>
                             </li>
                             {mortgagePrograms.map((mortgageProgram: MortgageProgram) => (
                                 <li key={mortgageProgram.programName} className={styles['list-item']}>

@@ -62,6 +62,20 @@ exports[`Navigation Component renders 1`] = `
       About Us
     </a>
     <a
+      aria-label="Press Mbanc Page Link"
+      class="regular-link"
+      href="https://press.mbanc.com"
+    >
+      Press
+    </a>
+    <a
+      aria-label="Blog Mbanc Page Link"
+      class="regular-link"
+      href="https://blog.mbanc.com"
+    >
+      Blog
+    </a>
+    <a
       aria-label="Prime Jumbo Mbanc Page Link"
       class="apply-now"
       href="https://www.mbanc.com/prime-jumbo-super-jumbo"
