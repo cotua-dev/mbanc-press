@@ -3,7 +3,7 @@ import { Navigation } from '../components/Navigation';
 import { Footer } from '../components/Footer';
 import { InThePress } from '../components/InThePress';
 
-interface HomeStaticProps {
+export interface HomeStaticProps {
     props: {};
     revalidate: number;
 };
