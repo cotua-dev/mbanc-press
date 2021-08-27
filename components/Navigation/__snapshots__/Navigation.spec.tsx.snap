@@ -25,6 +25,7 @@ exports[`Navigation Component renders 1`] = `
     </a>
     <div
       class="dropdown-activator"
+      data-testid="dropdown-activator"
     >
       <p
         class="dropdown-text"
@@ -86,6 +87,7 @@ exports[`Navigation Component renders 1`] = `
   <button
     aria-label="Mbanc Mobile Menu Open Button"
     class="mobile-menu-button"
+    data-testid="mobile-menu-button"
     type="button"
   >
     <svg
