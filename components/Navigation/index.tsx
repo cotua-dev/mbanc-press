@@ -42,6 +42,7 @@ export function Navigation(): JSX.Element {
                 </a>
                 <div
                     className={styles['dropdown-activator']}
+                    data-testid="dropdown-activator"
                     onClick={() => setDropdown(!dropdown)}
                 >
                     <p className={styles['dropdown-text']}>
@@ -53,7 +54,11 @@ export function Navigation(): JSX.Element {
                     </p>
                     {dropdownTransitions(
                         (dropdownStyles, dropdown) => dropdown &&
-                        <animated.div style={dropdownStyles} className={styles['dropdown-body']}>
+                        <animated.div
+                            style={dropdownStyles}
+                            data-testid="dropdown-body"
+                            className={styles['dropdown-body']}
+                        >
                             <ul className={styles['links-list']}>
                                 {mortgagePrograms.map((mortgageProgram: MortgageProgram) => (
                                     <li key={mortgageProgram.programName} className={styles['link-list-item']}>
@@ -98,19 +103,25 @@ export function Navigation(): JSX.Element {
                 className={styles['mobile-menu-button']}
                 type="button"
                 aria-label="Mbanc Mobile Menu Open Button"
+                data-testid="mobile-menu-button"
                 onClick={() => setMobileMenu(!mobileMenu)}
             >
                 <FontAwesomeIcon icon={faBars}/>
             </button>
             {mobileMenuTransitions(
                 (mobileMenuStyles, mobileMenu) => mobileMenu &&
-                <animated.div style={mobileMenuStyles} className={styles['mobile-menu']}>
+                <animated.div
+                    style={mobileMenuStyles}
+                    data-testid="mobile-menu"
+                    className={styles['mobile-menu']}
+                >
                     <div className={styles['mobile-menu-header']}>
                         <strong className={styles['title']}>{`Navigation`}</strong>
                         <button
                             className={styles['close-mobile-menu-button']}
                             type="button"
                             aria-label="Mbanc Mobile Menu Close Button"
+                            data-testid="close-mobile-menu-button"
                             onClick={() => setMobileMenu(false)}
                         >
                             <FontAwesomeIcon icon={faTimes}/>
