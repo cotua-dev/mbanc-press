@@ -5,6 +5,13 @@ orbs:
     node: circleci/node@4.1
     codecov: codecov/codecov@3.0.0
 
+jobs:
+    upload-to-codecov:
+        docker:
+            - image: cimg/base:stable
+        steps:
+            - codecov/upload
+
 workflows:
     sample:
         jobs:
@@ -13,7 +20,4 @@ workflows:
                     # This is the node version to use for the `cimg/node` tag
                     # Relevant tags can be found on the CircleCI Developer Hub
                     # https://circleci.com/developer/images/image/cimg/node
-    upload-to-codecov:
-        jobs:
-            - checkout
-            - codecov/upload
+            - upload-to-codecov
