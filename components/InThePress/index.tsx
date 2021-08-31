@@ -38,7 +38,7 @@ export function InThePress(): JSX.Element {
                         <picture>
                             <source srcSet={quote.imagePath}/>
                             <img
-                                className={`${styles['news-logo']} ${quote.newsOutlet === 'The Sun' || quote.newsOutlet === 'USA Today' ? styles['usa-sun-fix'] : ''}`}
+                                className={`${styles['news-logo']} ${quote.newsOutlet === 'The Sun' || quote.newsOutlet === 'USA Today' || quote.newsOutlet === 'National Mortgage News' ? styles['usa-sun-fix'] : ''}`}
                                 src={quote.imagePath}
                                 alt={quote.imageAlt}
                                 height={quote.imageHeight}
