@@ -51,4 +51,14 @@ export const quotes: Quote[] = [
         remainder: "it controls all of its loan analysis and decision-making.",
         newsOutlet: 'USA Today',
     },
+    {
+        imagePath: '/images/press/NationalMortgageNews.svg',
+        imageAlt: 'National Mortgage News Logo',
+        imageHeight: 25,
+        imageWidth: 300,
+        quoteURL: 'https://www.nationalmortgagenews.com/news/non-qm-lender-mbanc-underwrites-borrower-income-from-mobile-wallets',
+        catchPhrase: "Mbanc is a direct-to-consumer non-qualified mortgage lender",
+        remainder: "whose customer base includes business owners who accept online payments for their products and services.",
+        newsOutlet: 'National Mortgage News',
+    },
 ];

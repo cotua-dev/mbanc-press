@@ -302,5 +302,57 @@ exports[`InThePress Component renders 1`] = `
       USA Today
     </a>
   </div>
+  <hr
+    class="separator"
+  />
+  <div
+    class="quote-wrapper"
+  >
+    <picture>
+      <source
+        srcset="/images/press/NationalMortgageNews.svg"
+      />
+      <img
+        alt="National Mortgage News Logo"
+        class="news-logo usa-sun-fix"
+        height="25"
+        loading="lazy"
+        src="/images/press/NationalMortgageNews.svg"
+        width="300"
+      />
+    </picture>
+    <div
+      class="entire-quote"
+    >
+      <span
+        class="quote"
+      >
+        “
+      </span>
+      <blockquote
+        cite="https://www.nationalmortgagenews.com/news/non-qm-lender-mbanc-underwrites-borrower-income-from-mobile-wallets"
+        class="quote"
+      >
+        <strong
+          class="catch-phrase"
+        >
+          Mbanc is a direct-to-consumer non-qualified mortgage lender
+        </strong>
+        <p
+          class="remainder"
+        >
+          whose customer base includes business owners who accept online payments for their products and services.
+        </p>
+      </blockquote>
+    </div>
+    <a
+      class="quote-link"
+      href="https://www.nationalmortgagenews.com/news/non-qm-lender-mbanc-underwrites-borrower-income-from-mobile-wallets"
+      rel="noreferrer"
+      target="_blank"
+    >
+      National Mortgage News
+    </a>
+  </div>
 </section>
 `;
