@@ -8,4 +8,5 @@ export const mortgagePrograms: MortgageProgram[] = [
     { programName: 'Foreign National', ariaLabel: 'Foreign National Mbanc Page Link', link: 'https://www.mbanc.com/foreign-national' },
     { programName: 'Conventional Jumbo', ariaLabel: 'Conventional Jumbo Mbanc Page Link', link: 'https://www.mbanc.com/conventional-high-balance' },
     { programName: 'Interest Only Jumbo', ariaLabel: 'Interest Only Jumbo Mbanc Page Link', link: 'https://www.mbanc.com/interest-only-jumbo' },
+    { programName: 'Multi-Family Jumbo', ariaLabel: 'Multi-Family Jumbo Mbanc Page Link', link: 'https://www.mbanc.com/multi-family-jumbo' },
 ];
