@@ -1,1 +1,1 @@
-export type NewsOutlets = 'USA Today' | 'The Sun' | 'Yahoo!' | 'The Washington Post' | 'National Mortgage News';
+export type NewsOutlets = 'USA Today' | 'The Sun' | 'Yahoo!' | 'The Washington Post' | 'National Mortgage News' | 'Bankrate' | 'GoBankingRates';
