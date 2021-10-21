@@ -354,5 +354,107 @@ exports[`InThePress Component renders 1`] = `
       National Mortgage News
     </a>
   </div>
+  <hr
+    class="separator"
+  />
+  <div
+    class="quote-wrapper"
+  >
+    <picture>
+      <source
+        srcset="/images/press/Bankrate.svg"
+      />
+      <img
+        alt="Bankrate News Logo"
+        class="news-logo "
+        height="60"
+        loading="lazy"
+        src="/images/press/Bankrate.svg"
+        width="140"
+      />
+    </picture>
+    <div
+      class="entire-quote"
+    >
+      <span
+        class="quote"
+      >
+        “
+      </span>
+      <blockquote
+        cite="https://www.bankrate.com/mortgages/how-to-buy-a-house-with-low-income/"
+        class="quote"
+      >
+        <strong
+          class="catch-phrase"
+        >
+          “There are a few other strings attached, too: If you are a first-time buyer,
+        </strong>
+        <p
+          class="remainder"
+        >
+          you will be required to go through a homeownership education program,” adds Tabitha Mazzara
+        </p>
+      </blockquote>
+    </div>
+    <a
+      class="quote-link"
+      href="https://www.bankrate.com/mortgages/how-to-buy-a-house-with-low-income/"
+      rel="noreferrer"
+      target="_blank"
+    >
+      Bankrate
+    </a>
+  </div>
+  <hr
+    class="separator"
+  />
+  <div
+    class="quote-wrapper"
+  >
+    <picture>
+      <source
+        srcset="/images/press/GoBankingRates.svg"
+      />
+      <img
+        alt="GoBankingRates News Logo"
+        class="news-logo "
+        height="45"
+        loading="lazy"
+        src="/images/press/GoBankingRates.svg"
+        width="180"
+      />
+    </picture>
+    <div
+      class="entire-quote"
+    >
+      <span
+        class="quote"
+      >
+        “
+      </span>
+      <blockquote
+        cite="https://www.gobankingrates.com/loans/mortgage/pros-cons-online-mortgage-lenders/"
+        class="quote"
+      >
+        <strong
+          class="catch-phrase"
+        >
+          We’ve made it easy to do everything from your couch
+        </strong>
+        <p
+          class="remainder"
+        />
+      </blockquote>
+    </div>
+    <a
+      class="quote-link"
+      href="https://www.gobankingrates.com/loans/mortgage/pros-cons-online-mortgage-lenders/"
+      rel="noreferrer"
+      target="_blank"
+    >
+      GoBankingRates
+    </a>
+  </div>
 </section>
 `;
