@@ -456,5 +456,161 @@ exports[`InThePress Component renders 1`] = `
       GoBankingRates
     </a>
   </div>
+  <hr
+    class="separator"
+  />
+  <div
+    class="quote-wrapper"
+  >
+    <picture>
+      <source
+        srcset="/images/press/MSN.svg"
+      />
+      <img
+        alt="MSN Logo"
+        class="news-logo "
+        height="45"
+        loading="lazy"
+        src="/images/press/MSN.svg"
+        width="100"
+      />
+    </picture>
+    <div
+      class="entire-quote"
+    >
+      <span
+        class="quote"
+      >
+        “
+      </span>
+      <blockquote
+        cite="https://www.msn.com/en-us/money/realestate/how-to-buy-a-house-with-a-low-income/ar-AAPHtZ2"
+        class="quote"
+      >
+        <strong
+          class="catch-phrase"
+        >
+          There are a few other strings attached, too:
+        </strong>
+        <p
+          class="remainder"
+        >
+          If you are a first-time buyer, you will be required to go through a homeownership education program," adds Tabitha Mazzara, director of operations at MBANC, a mortgage lender.
+        </p>
+      </blockquote>
+    </div>
+    <a
+      class="quote-link"
+      href="https://www.msn.com/en-us/money/realestate/how-to-buy-a-house-with-a-low-income/ar-AAPHtZ2"
+      rel="noreferrer"
+      target="_blank"
+    >
+      MSN
+    </a>
+  </div>
+  <hr
+    class="separator"
+  />
+  <div
+    class="quote-wrapper"
+  >
+    <picture>
+      <source
+        srcset="/images/press/LendingTree.svg"
+      />
+      <img
+        alt="LendingTree News Logo"
+        class="news-logo "
+        height="65"
+        loading="lazy"
+        src="/images/press/LendingTree.svg"
+        width="180"
+      />
+    </picture>
+    <div
+      class="entire-quote"
+    >
+      <span
+        class="quote"
+      >
+        “
+      </span>
+      <blockquote
+        cite="https://www.lendingtree.com/home/mortgage/what-is-a-balloon-mortgage-loan"
+        class="quote"
+      >
+        <strong
+          class="catch-phrase"
+        >
+          I think that they would be solely for a savvy real estate investor
+        </strong>
+        <p
+          class="remainder"
+        >
+          that understands how to move through the market and is comfortable with the terms within the balloon note
+        </p>
+      </blockquote>
+    </div>
+    <a
+      class="quote-link"
+      href="https://www.lendingtree.com/home/mortgage/what-is-a-balloon-mortgage-loan"
+      rel="noreferrer"
+      target="_blank"
+    >
+      LendingTree
+    </a>
+  </div>
+  <hr
+    class="separator"
+  />
+  <div
+    class="quote-wrapper"
+  >
+    <picture>
+      <source
+        srcset="/images/press/DailyNationToday.png"
+      />
+      <img
+        alt="Daily Nation Today Logo"
+        class="news-logo "
+        height="42"
+        loading="lazy"
+        src="/images/press/DailyNationToday.png"
+        width="200"
+      />
+    </picture>
+    <div
+      class="entire-quote"
+    >
+      <span
+        class="quote"
+      >
+        “
+      </span>
+      <blockquote
+        cite="https://dailynationtoday.com/how-does-a-wraparound-mortgage-work"
+        class="quote"
+      >
+        <strong
+          class="catch-phrase"
+        >
+          The vendor will get the clear advantage
+        </strong>
+        <p
+          class="remainder"
+        >
+          of the ability to cost an excessive fee of curiosity for a mortgage
+        </p>
+      </blockquote>
+    </div>
+    <a
+      class="quote-link"
+      href="https://dailynationtoday.com/how-does-a-wraparound-mortgage-work"
+      rel="noreferrer"
+      target="_blank"
+    >
+      Daily Nation Today
+    </a>
+  </div>
 </section>
 `;
