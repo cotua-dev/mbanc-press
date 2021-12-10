@@ -612,5 +612,161 @@ exports[`InThePress Component renders 1`] = `
       Daily Nation Today
     </a>
   </div>
+  <hr
+    class="separator"
+  />
+  <div
+    class="quote-wrapper"
+  >
+    <picture>
+      <source
+        srcset="/images/press/BusinessInsider.svg"
+      />
+      <img
+        alt="Business Insider Logo"
+        class="news-logo "
+        height="40"
+        loading="lazy"
+        src="/images/press/BusinessInsider.svg"
+        width="260"
+      />
+    </picture>
+    <div
+      class="entire-quote"
+    >
+      <span
+        class="quote"
+      >
+        “
+      </span>
+      <blockquote
+        cite="https://www.businessinsider.com/what-is-underwriting"
+        class="quote"
+      >
+        <strong
+          class="catch-phrase"
+        >
+          "Underwriting is basically just verifying all of the information the borrower has provided on their loan application
+        </strong>
+        <p
+          class="remainder"
+        >
+          — their income, their tax returns, their bank accounts and other assets," says Mayer Dallal
+        </p>
+      </blockquote>
+    </div>
+    <a
+      class="quote-link"
+      href="https://www.businessinsider.com/what-is-underwriting"
+      rel="noreferrer"
+      target="_blank"
+    >
+      Business Insider
+    </a>
+  </div>
+  <hr
+    class="separator"
+  />
+  <div
+    class="quote-wrapper"
+  >
+    <picture>
+      <source
+        srcset="/images/press/GoBankingRates.svg"
+      />
+      <img
+        alt="GoBankingRates News Logo"
+        class="news-logo "
+        height="45"
+        loading="lazy"
+        src="/images/press/GoBankingRates.svg"
+        width="180"
+      />
+    </picture>
+    <div
+      class="entire-quote"
+    >
+      <span
+        class="quote"
+      >
+        “
+      </span>
+      <blockquote
+        cite="https://www.gobankingrates.com/investing/real-estate/why-holidays-are-good-time-to-buy-house"
+        class="quote"
+      >
+        <strong
+          class="catch-phrase"
+        >
+          “If someone is selling during the holidays, it usually indicates they've already left their former home behind,
+        </strong>
+        <p
+          class="remainder"
+        >
+          and they're spending the holidays elsewhere, so they have emotionally disassociated themselves from the home,” Mayer said
+        </p>
+      </blockquote>
+    </div>
+    <a
+      class="quote-link"
+      href="https://www.gobankingrates.com/investing/real-estate/why-holidays-are-good-time-to-buy-house"
+      rel="noreferrer"
+      target="_blank"
+    >
+      GoBankingRates
+    </a>
+  </div>
+  <hr
+    class="separator"
+  />
+  <div
+    class="quote-wrapper"
+  >
+    <picture>
+      <source
+        srcset="/images/press/CNBC.svg"
+      />
+      <img
+        alt="CNBC Logo"
+        class="news-logo "
+        height="80"
+        loading="lazy"
+        src="/images/press/CNBC.svg"
+        width="80"
+      />
+    </picture>
+    <div
+      class="entire-quote"
+    >
+      <span
+        class="quote"
+      >
+        “
+      </span>
+      <blockquote
+        cite="https://www.cnbc.com/2021/12/02/aiming-to-buy-a-home-in-the-next-year-do-these-4-things.html"
+        class="quote"
+      >
+        <strong
+          class="catch-phrase"
+        >
+          “It's tough to overstate the importance of credit scores to a mortgage loan application,”
+        </strong>
+        <p
+          class="remainder"
+        >
+          says Tabitha Mazzara, director of operations at Mortgage Bank of California. “They're one of the top things lenders consider.”
+        </p>
+      </blockquote>
+    </div>
+    <a
+      class="quote-link"
+      href="https://www.cnbc.com/2021/12/02/aiming-to-buy-a-home-in-the-next-year-do-these-4-things.html"
+      rel="noreferrer"
+      target="_blank"
+    >
+      CNBC
+    </a>
+  </div>
 </section>
 `;
