@@ -625,10 +625,10 @@ exports[`InThePress Component renders 1`] = `
       <img
         alt="Business Insider Logo"
         class="news-logo "
-        height="40"
+        height="47"
         loading="lazy"
         src="/images/press/BusinessInsider.svg"
-        width="260"
+        width="150"
       />
     </picture>
     <div
@@ -729,10 +729,10 @@ exports[`InThePress Component renders 1`] = `
       <img
         alt="CNBC Logo"
         class="news-logo "
-        height="80"
+        height="28"
         loading="lazy"
         src="/images/press/CNBC.svg"
-        width="80"
+        width="180"
       />
     </picture>
     <div
