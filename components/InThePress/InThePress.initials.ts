@@ -114,8 +114,8 @@ export const quotes: Quote[] = [
     {
         imagePath: '/images/press/BusinessInsider.svg',
         imageAlt: 'Business Insider Logo',
-        imageHeight: 40,
-        imageWidth: 260,
+        imageHeight: 47,
+        imageWidth: 150,
         quoteURL: 'https://www.businessinsider.com/what-is-underwriting',
         catchPhrase: `"Underwriting is basically just verifying all of the information the borrower has provided on their loan application`,
         remainder: `— their income, their tax returns, their bank accounts and other assets," says Mayer Dallal`,
@@ -134,8 +134,8 @@ export const quotes: Quote[] = [
     {
         imagePath: '/images/press/CNBC.svg',
         imageAlt: 'CNBC Logo',
-        imageHeight: 80,
-        imageWidth: 80,
+        imageHeight: 28,
+        imageWidth: 180,
         quoteURL: 'https://www.cnbc.com/2021/12/02/aiming-to-buy-a-home-in-the-next-year-do-these-4-things.html',
         catchPhrase: `“It's tough to overstate the importance of credit scores to a mortgage loan application,”`,
         remainder: `says Tabitha Mazzara, director of operations at Mortgage Bank of California. “They're one of the top things lenders consider.”`,
