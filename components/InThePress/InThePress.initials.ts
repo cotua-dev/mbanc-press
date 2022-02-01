@@ -141,4 +141,14 @@ export const quotes: Quote[] = [
         remainder: `says Tabitha Mazzara, director of operations at Mortgage Bank of California. “They're one of the top things lenders consider.”`,
         newsOutlet: 'CNBC',
     },
+    {
+        imagePath: '/images/press/NextAdvisor.svg',
+        imageAlt: 'NextAdvisor Logo',
+        imageHeight: 46,
+        imageWidth: 200,
+        quoteURL: 'https://time.com/nextadvisor/mortgages/energy-efficient-mortgages/',
+        catchPhrase: `Business owners and homeowners are turning to financing options like green loans`,
+        remainder: `or energy efficient mortgages so they can make eco-friendly and energy-saving improvements while saving money on their utility bills every month.”`,
+        newsOutlet: 'NextAdvisor',
+    },
 ];
