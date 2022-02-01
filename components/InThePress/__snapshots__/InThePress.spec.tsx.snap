@@ -768,5 +768,57 @@ exports[`InThePress Component renders 1`] = `
       CNBC
     </a>
   </div>
+  <hr
+    class="separator"
+  />
+  <div
+    class="quote-wrapper"
+  >
+    <picture>
+      <source
+        srcset="/images/press/NextAdvisor.svg"
+      />
+      <img
+        alt="NextAdvisor Logo"
+        class="news-logo "
+        height="46"
+        loading="lazy"
+        src="/images/press/NextAdvisor.svg"
+        width="200"
+      />
+    </picture>
+    <div
+      class="entire-quote"
+    >
+      <span
+        class="quote"
+      >
+        “
+      </span>
+      <blockquote
+        cite="https://time.com/nextadvisor/mortgages/energy-efficient-mortgages/"
+        class="quote"
+      >
+        <strong
+          class="catch-phrase"
+        >
+          Business owners and homeowners are turning to financing options like green loans
+        </strong>
+        <p
+          class="remainder"
+        >
+          or energy efficient mortgages so they can make eco-friendly and energy-saving improvements while saving money on their utility bills every month.”
+        </p>
+      </blockquote>
+    </div>
+    <a
+      class="quote-link"
+      href="https://time.com/nextadvisor/mortgages/energy-efficient-mortgages/"
+      rel="noreferrer"
+      target="_blank"
+    >
+      NextAdvisor
+    </a>
+  </div>
 </section>
 `;
