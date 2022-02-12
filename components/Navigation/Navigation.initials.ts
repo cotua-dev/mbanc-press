@@ -1,7 +1,7 @@
 import { MortgageProgram } from './Navigation.interfaces';
 
 export const mortgagePrograms: MortgageProgram[] = [
-    { programName: 'Prime Jumbo', ariaLabel: 'Prime Jumbo Mbanc Page Link', link: 'https://www.mbanc.com/prime-jumbo-super-jumbo' },
+    { programName: 'Asset Utilization', ariaLabel: 'Asset Utilization Mbanc Page Link', link: 'https://www.mbanc.com/asset-utilization' },
     { programName: 'Bank Statement Jumbo', ariaLabel: 'Bank Statement Jumbo Mbanc Page Link', link: 'https://www.mbanc.com/non-qm-bank-statement' },
     { programName: '1099 Jumbo', ariaLabel: '1099 Jumbo Mbanc Page Link', link: 'https://www.mbanc.com/non-qm-1099' },
     { programName: 'Rental Income DSCR', ariaLabel: 'Rental Income DSCR Mbanc Page Link', link: 'https://www.mbanc.com/non-qm-dscr' },
