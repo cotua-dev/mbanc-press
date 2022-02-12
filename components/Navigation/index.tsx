@@ -95,8 +95,8 @@ export function Navigation(): JSX.Element {
                 >{`Blog`}</a>
                 <a
                     className={styles['apply-now']}
-                    href="https://www.mbanc.com/prime-jumbo-super-jumbo"
-                    aria-label="Prime Jumbo Mbanc Page Link"
+                    href="https://www.mbanc.com/non-qm-bank-statement-jumbo"
+                    aria-label="Bank Statement Jumbo Mbanc Page Link"
                 >{`Apply Now`}</a>
             </div>
             <button
@@ -178,8 +178,8 @@ export function Navigation(): JSX.Element {
                     <div className={styles['apply-now-wrapper']}>
                         <a
                             className={styles['apply-now']}
-                            href="https://www.mbanc.com/prime-jumbo-super-jumbo"
-                            aria-label="Prime Jumbo Mbanc Page Link"
+                            href="https://www.mbanc.com/non-qm-bank-statement-jumbo"
+                            aria-label="Bank Statement Jumbo Mbanc Page Link"
                         >{`Apply Now`}</a>
                     </div>
                 </animated.div>
