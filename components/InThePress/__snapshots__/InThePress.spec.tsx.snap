@@ -828,5 +828,109 @@ exports[`InThePress Component renders 1`] = `
       NextAdvisor
     </a>
   </div>
+  <hr
+    class="separator"
+  />
+  <div
+    class="quote-wrapper"
+  >
+    <picture>
+      <source
+        srcset="/images/press/MSN.svg"
+      />
+      <img
+        alt="MSN Logo"
+        class="news-logo "
+        height="45"
+        loading="lazy"
+        src="/images/press/MSN.svg"
+        width="100"
+      />
+    </picture>
+    <div
+      class="entire-quote"
+    >
+      <span
+        class="quote"
+      >
+        “
+      </span>
+      <blockquote
+        cite="https://www.msn.com/en-us/money/realestate/the-number-of-us-cities-with-an-average-home-price-of-dollar1-million-tripled-last-year/ar-AAUd0Mt"
+        class="quote"
+      >
+        <strong
+          class="catch-phrase"
+        >
+          Look at any open house — they're crazy crowded.
+        </strong>
+        <p
+          class="remainder"
+        >
+          The competition and demand is so high that even if you have government help, someone else might come in with 50% down.
+        </p>
+      </blockquote>
+    </div>
+    <a
+      class="quote-link"
+      href="https://www.msn.com/en-us/money/realestate/the-number-of-us-cities-with-an-average-home-price-of-dollar1-million-tripled-last-year/ar-AAUd0Mt"
+      rel="noreferrer"
+      target="_blank"
+    >
+      MSN
+    </a>
+  </div>
+  <hr
+    class="separator"
+  />
+  <div
+    class="quote-wrapper"
+  >
+    <picture>
+      <source
+        srcset="/images/press/Forbes.svg"
+      />
+      <img
+        alt="Forbes Logo"
+        class="news-logo "
+        height="32"
+        loading="lazy"
+        src="/images/press/Forbes.svg"
+        width="131"
+      />
+    </picture>
+    <div
+      class="entire-quote"
+    >
+      <span
+        class="quote"
+      >
+        “
+      </span>
+      <blockquote
+        cite="https://www.forbes.com/advisor/mortgages/homes-for-sale-hit-record-low"
+        class="quote"
+      >
+        <strong
+          class="catch-phrase"
+        >
+          It's a true sellers' market right now,
+        </strong>
+        <p
+          class="remainder"
+        >
+          with more adherence to sellers' demands than normal.
+        </p>
+      </blockquote>
+    </div>
+    <a
+      class="quote-link"
+      href="https://www.forbes.com/advisor/mortgages/homes-for-sale-hit-record-low"
+      rel="noreferrer"
+      target="_blank"
+    >
+      Forbes
+    </a>
+  </div>
 </section>
 `;
