@@ -8,7 +8,7 @@ nav.mbanc-navigation {
     @include mixins.flexify(center, false, false);
     z-index: 1;
 
-    @include mixins.mobile {
+    @include mixins.mobile() {
         height: 50px;
     }
 
@@ -18,7 +18,7 @@ nav.mbanc-navigation {
         margin: 0 auto;
         @include mixins.flexify(center, false, row);
 
-        @include mixins.mobile {
+        @include mixins.mobile() {
             @include mixins.flexify(center, center, row);
         }
 
@@ -31,8 +31,8 @@ nav.mbanc-navigation {
         div.dropdown-activator,
         a.regular-link,
         a.apply-now {
-            @include mixins.mobile {
-                display: none;
+            @include mixins.mobile() {
+                display: none !important;
             }
         }
 
@@ -43,6 +43,8 @@ nav.mbanc-navigation {
             text-transform: uppercase;
             letter-spacing: 1px;
             color: variables.$primary-color;
+            display: flex;
+            align-items: center;
         }
 
         div.dropdown-activator,
@@ -56,6 +58,7 @@ nav.mbanc-navigation {
             .caret-down {
                 color: variables.$secondary-color;
                 margin-left: 10px;
+                height: 14px;
             }
 
             div.dropdown-body {
@@ -138,12 +141,16 @@ nav.mbanc-navigation {
             cursor: pointer;
             z-index: 100;
         }
+
+        .hamburger-icon {
+            height: 24px;
+        }
     }
 
     div.mobile-menu {
         display: none;
 
-        @include mixins.mobile {
+        @include mixins.mobile() {
             @include mixins.flexify(false, false, column);
             position: fixed;
             border-radius: 10px;
@@ -171,6 +178,10 @@ nav.mbanc-navigation {
                 font-size: 24px;
                 color: variables.$primary-color;
                 cursor: pointer;
+
+                .close-logo {
+                    height: 24px;
+                }
             }
         }
 
