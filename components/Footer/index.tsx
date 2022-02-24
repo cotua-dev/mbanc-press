@@ -32,22 +32,22 @@ export function Footer(): JSX.Element {
                                 className={styles['social-media']}
                                 href="https://www.facebook.com/gombanc"
                                 aria-label="Mbanc Facebook Social Media Page Link"
-                            ><FontAwesomeIcon icon={faFacebookF}/></a>
+                            ><FontAwesomeIcon className={styles['social-media-logo']} icon={faFacebookF}/></a>
                             <a
                                 className={styles['social-media']}
                                 href="https://www.instagram.com/gombanc"
                                 aria-label="Mbanc Instagram Social Media Page Link"
-                            ><FontAwesomeIcon icon={faInstagram}/></a>
+                            ><FontAwesomeIcon className={styles['social-media-logo']} icon={faInstagram}/></a>
                             <a
                                 className={styles['social-media']}
                                 href="https://www.linkedin.com/company/mbanc"
                                 aria-label="Mbanc LinkedIn Social Media Page Link"
-                            ><FontAwesomeIcon icon={faLinkedinIn}/></a>
+                            ><FontAwesomeIcon className={styles['social-media-logo']} icon={faLinkedinIn}/></a>
                             <a
                                 className={styles['social-media']}
                                 href="https://twitter.com/gombanc"
                                 aria-label="Mbanc Twitter Social Media Page Link"
-                            ><FontAwesomeIcon icon={faTwitter}/></a>
+                            ><FontAwesomeIcon className={styles['social-media-logo']} icon={faTwitter}/></a>
                         </div>
                     </div>
                     <div className={styles['mbanc-contact']}>

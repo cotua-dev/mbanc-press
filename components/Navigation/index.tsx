@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { animated, config, useTransition } from 'react-spring';
+import { animated, config, useTransition } from '@react-spring/web';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faBars, faCaretDown, faTimes } from '@fortawesome/free-solid-svg-icons';
 import styles from './Navigation.module.scss';
@@ -106,7 +106,7 @@ export function Navigation(): JSX.Element {
                 data-testid="mobile-menu-button"
                 onClick={() => setMobileMenu(!mobileMenu)}
             >
-                <FontAwesomeIcon icon={faBars}/>
+                <FontAwesomeIcon className={styles['hamburger-icon']} icon={faBars}/>
             </button>
             {mobileMenuTransitions(
                 (mobileMenuStyles, mobileMenu) => mobileMenu &&
@@ -124,7 +124,7 @@ export function Navigation(): JSX.Element {
                             data-testid="close-mobile-menu-button"
                             onClick={() => setMobileMenu(false)}
                         >
-                            <FontAwesomeIcon icon={faTimes}/>
+                            <FontAwesomeIcon className={styles['close-logo']} icon={faTimes}/>
                         </button>
                     </div>
                     <div className={styles['mobile-links-wrapper']}>

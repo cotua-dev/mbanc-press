@@ -55,7 +55,7 @@ exports[`Footer Component renders 1`] = `
           >
             <svg
               aria-hidden="true"
-              class="svg-inline--fa fa-facebook-f "
+              class="svg-inline--fa fa-facebook-f social-media-logo"
               data-icon="facebook-f"
               data-prefix="fab"
               focusable="false"
@@ -76,7 +76,7 @@ exports[`Footer Component renders 1`] = `
           >
             <svg
               aria-hidden="true"
-              class="svg-inline--fa fa-instagram "
+              class="svg-inline--fa fa-instagram social-media-logo"
               data-icon="instagram"
               data-prefix="fab"
               focusable="false"
@@ -97,7 +97,7 @@ exports[`Footer Component renders 1`] = `
           >
             <svg
               aria-hidden="true"
-              class="svg-inline--fa fa-linkedin-in "
+              class="svg-inline--fa fa-linkedin-in social-media-logo"
               data-icon="linkedin-in"
               data-prefix="fab"
               focusable="false"
@@ -118,7 +118,7 @@ exports[`Footer Component renders 1`] = `
           >
             <svg
               aria-hidden="true"
-              class="svg-inline--fa fa-twitter "
+              class="svg-inline--fa fa-twitter social-media-logo"
               data-icon="twitter"
               data-prefix="fab"
               focusable="false"
