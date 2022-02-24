@@ -92,7 +92,7 @@ exports[`Navigation Component renders 1`] = `
   >
     <svg
       aria-hidden="true"
-      class="svg-inline--fa fa-bars "
+      class="svg-inline--fa fa-bars hamburger-icon"
       data-icon="bars"
       data-prefix="fas"
       focusable="false"
