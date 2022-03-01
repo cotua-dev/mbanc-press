@@ -932,5 +932,57 @@ exports[`InThePress Component renders 1`] = `
       Forbes
     </a>
   </div>
+  <hr
+    class="separator"
+  />
+  <div
+    class="quote-wrapper"
+  >
+    <picture>
+      <source
+        srcset="/images/press/Money.png"
+      />
+      <img
+        alt="Money Logo"
+        class="news-logo "
+        height="45"
+        loading="lazy"
+        src="/images/press/Money.png"
+        width="130"
+      />
+    </picture>
+    <div
+      class="entire-quote"
+    >
+      <span
+        class="quote"
+      >
+        “
+      </span>
+      <blockquote
+        cite="https://money.com/failed-homebuyers-return-trend-tips"
+        class="quote"
+      >
+        <strong
+          class="catch-phrase"
+        >
+          "They're going to have to up their budgets," says Mayer Dallal, managing director at mortgage lender MBANC.
+        </strong>
+        <p
+          class="remainder"
+        >
+          "Interest rates are going to keep creeping up, and home prices may either continue to rise or may flatten, but I don't see them going down anytime soon. A budget that was reasonable a couple of months ago may not be as interest rates climb."
+        </p>
+      </blockquote>
+    </div>
+    <a
+      class="quote-link"
+      href="https://money.com/failed-homebuyers-return-trend-tips"
+      rel="noreferrer"
+      target="_blank"
+    >
+      Money
+    </a>
+  </div>
 </section>
 `;
