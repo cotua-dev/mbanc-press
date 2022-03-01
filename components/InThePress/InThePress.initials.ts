@@ -171,4 +171,14 @@ export const quotes: Quote[] = [
         remainder: 'with more adherence to sellers\' demands than normal.',
         newsOutlet: 'Forbes',
     },
+    {
+        imagePath: '/images/press/Money.png',
+        imageAlt: 'Money Logo',
+        imageHeight: 45,
+        imageWidth: 130,
+        quoteURL: 'https://money.com/failed-homebuyers-return-trend-tips',
+        catchPhrase: '"They\'re going to have to up their budgets," says Mayer Dallal, managing director at mortgage lender MBANC.',
+        remainder: '"Interest rates are going to keep creeping up, and home prices may either continue to rise or may flatten, but I don\'t see them going down anytime soon. A budget that was reasonable a couple of months ago may not be as interest rates climb."',
+        newsOutlet: 'Money',
+    },
 ];
