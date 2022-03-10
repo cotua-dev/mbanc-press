@@ -58,14 +58,14 @@ exports[`InThePress Component renders 1`] = `
   >
     <picture>
       <source
-        srcset="/images/press/TheWashingtonPost.svg"
+        srcset="/images/press/new/thewashingtonpost_color.svg"
       />
       <img
         alt="The Washington Post Logo"
         class="news-logo "
         height="46"
         loading="lazy"
-        src="/images/press/TheWashingtonPost.svg"
+        src="/images/press/new/thewashingtonpost_color.svg"
         width="300"
       />
     </picture>
@@ -110,14 +110,14 @@ exports[`InThePress Component renders 1`] = `
   >
     <picture>
       <source
-        srcset="/images/press/yahoo.svg"
+        srcset="/images/press/new/yahoo_color.svg"
       />
       <img
         alt="Yahoo Logo"
         class="news-logo "
         height="55"
         loading="lazy"
-        src="/images/press/yahoo.svg"
+        src="/images/press/new/yahoo_color.svg"
         width="200"
       />
     </picture>
@@ -162,14 +162,14 @@ exports[`InThePress Component renders 1`] = `
   >
     <picture>
       <source
-        srcset="/images/press/USAToday.svg"
+        srcset="/images/press/new/usatoday_color.svg"
       />
       <img
         alt="USA Today Logo"
         class="news-logo usa-sun-fix"
         height="70"
         loading="lazy"
-        src="/images/press/USAToday.svg"
+        src="/images/press/new/usatoday_color.svg"
         width="300"
       />
     </picture>
@@ -214,14 +214,14 @@ exports[`InThePress Component renders 1`] = `
   >
     <picture>
       <source
-        srcset="/images/press/TheSun.svg"
+        srcset="/images/press/new/thesun_color.svg"
       />
       <img
         alt="The Sun Logo"
         class="news-logo usa-sun-fix"
         height="87"
         loading="lazy"
-        src="/images/press/TheSun.svg"
+        src="/images/press/new/thesun_color.svg"
         width="200"
       />
     </picture>
@@ -266,14 +266,14 @@ exports[`InThePress Component renders 1`] = `
   >
     <picture>
       <source
-        srcset="/images/press/USAToday.svg"
+        srcset="/images/press/new/usatoday_color.svg"
       />
       <img
         alt="USA Today Logo"
         class="news-logo usa-sun-fix"
         height="70"
         loading="lazy"
-        src="/images/press/USAToday.svg"
+        src="/images/press/new/usatoday_color.svg"
         width="300"
       />
     </picture>
@@ -318,14 +318,14 @@ exports[`InThePress Component renders 1`] = `
   >
     <picture>
       <source
-        srcset="/images/press/NationalMortgageNews.svg"
+        srcset="/images/press/new/nationalmortgagenews_color.svg"
       />
       <img
         alt="National Mortgage News Logo"
         class="news-logo usa-sun-fix"
         height="25"
         loading="lazy"
-        src="/images/press/NationalMortgageNews.svg"
+        src="/images/press/new/nationalmortgagenews_color.svg"
         width="300"
       />
     </picture>
@@ -370,14 +370,14 @@ exports[`InThePress Component renders 1`] = `
   >
     <picture>
       <source
-        srcset="/images/press/Bankrate.svg"
+        srcset="/images/press/new/bankrate_color.svg"
       />
       <img
         alt="Bankrate News Logo"
         class="news-logo "
         height="60"
         loading="lazy"
-        src="/images/press/Bankrate.svg"
+        src="/images/press/new/bankrate_color.svg"
         width="140"
       />
     </picture>
@@ -422,14 +422,14 @@ exports[`InThePress Component renders 1`] = `
   >
     <picture>
       <source
-        srcset="/images/press/GoBankingRates.svg"
+        srcset="/images/press/new/gobankingrates_color.svg"
       />
       <img
         alt="GoBankingRates News Logo"
         class="news-logo "
         height="45"
         loading="lazy"
-        src="/images/press/GoBankingRates.svg"
+        src="/images/press/new/gobankingrates_color.svg"
         width="180"
       />
     </picture>
@@ -472,14 +472,14 @@ exports[`InThePress Component renders 1`] = `
   >
     <picture>
       <source
-        srcset="/images/press/MSN.svg"
+        srcset="/images/press/new/msn_color.svg"
       />
       <img
         alt="MSN Logo"
         class="news-logo "
         height="45"
         loading="lazy"
-        src="/images/press/MSN.svg"
+        src="/images/press/new/msn_color.svg"
         width="100"
       />
     </picture>
@@ -524,14 +524,14 @@ exports[`InThePress Component renders 1`] = `
   >
     <picture>
       <source
-        srcset="/images/press/LendingTree.svg"
+        srcset="/images/press/new/lendingtree_color.svg"
       />
       <img
         alt="LendingTree News Logo"
         class="news-logo "
         height="65"
         loading="lazy"
-        src="/images/press/LendingTree.svg"
+        src="/images/press/new/lendingtree_color.svg"
         width="180"
       />
     </picture>
@@ -576,14 +576,14 @@ exports[`InThePress Component renders 1`] = `
   >
     <picture>
       <source
-        srcset="/images/press/DailyNationToday.png"
+        srcset="/images/press/new/dailynationtoday_color.svg"
       />
       <img
         alt="Daily Nation Today Logo"
         class="news-logo "
         height="42"
         loading="lazy"
-        src="/images/press/DailyNationToday.png"
+        src="/images/press/new/dailynationtoday_color.svg"
         width="200"
       />
     </picture>
@@ -628,14 +628,14 @@ exports[`InThePress Component renders 1`] = `
   >
     <picture>
       <source
-        srcset="/images/press/BusinessInsider.svg"
+        srcset="/images/press/new/businessinsider_color.svg"
       />
       <img
         alt="Business Insider Logo"
         class="news-logo "
         height="47"
         loading="lazy"
-        src="/images/press/BusinessInsider.svg"
+        src="/images/press/new/businessinsider_color.svg"
         width="150"
       />
     </picture>
@@ -680,14 +680,14 @@ exports[`InThePress Component renders 1`] = `
   >
     <picture>
       <source
-        srcset="/images/press/GoBankingRates.svg"
+        srcset="/images/press/new/gobankingrates_color.svg"
       />
       <img
         alt="GoBankingRates News Logo"
         class="news-logo "
         height="45"
         loading="lazy"
-        src="/images/press/GoBankingRates.svg"
+        src="/images/press/new/gobankingrates_color.svg"
         width="180"
       />
     </picture>
@@ -732,14 +732,14 @@ exports[`InThePress Component renders 1`] = `
   >
     <picture>
       <source
-        srcset="/images/press/CNBC.svg"
+        srcset="/images/press/new/cnbc_color.svg"
       />
       <img
         alt="CNBC Logo"
         class="news-logo "
         height="28"
         loading="lazy"
-        src="/images/press/CNBC.svg"
+        src="/images/press/new/cnbc_color.svg"
         width="180"
       />
     </picture>
@@ -784,14 +784,14 @@ exports[`InThePress Component renders 1`] = `
   >
     <picture>
       <source
-        srcset="/images/press/NextAdvisor.svg"
+        srcset="/images/press/new/nextadvisor_color.svg"
       />
       <img
         alt="NextAdvisor Logo"
         class="news-logo "
         height="46"
         loading="lazy"
-        src="/images/press/NextAdvisor.svg"
+        src="/images/press/new/nextadvisor_color.svg"
         width="200"
       />
     </picture>
@@ -836,14 +836,14 @@ exports[`InThePress Component renders 1`] = `
   >
     <picture>
       <source
-        srcset="/images/press/MSN.svg"
+        srcset="/images/press/new/msn_color.svg"
       />
       <img
         alt="MSN Logo"
         class="news-logo "
         height="45"
         loading="lazy"
-        src="/images/press/MSN.svg"
+        src="/images/press/new/msn_color.svg"
         width="100"
       />
     </picture>
@@ -888,14 +888,14 @@ exports[`InThePress Component renders 1`] = `
   >
     <picture>
       <source
-        srcset="/images/press/Forbes.svg"
+        srcset="/images/press/new/forbes_color.svg"
       />
       <img
         alt="Forbes Logo"
         class="news-logo "
         height="32"
         loading="lazy"
-        src="/images/press/Forbes.svg"
+        src="/images/press/new/forbes_color.svg"
         width="131"
       />
     </picture>
@@ -940,14 +940,14 @@ exports[`InThePress Component renders 1`] = `
   >
     <picture>
       <source
-        srcset="/images/press/Money.png"
+        srcset="/images/press/new/money_color.svg"
       />
       <img
         alt="Money Logo"
         class="news-logo "
         height="45"
         loading="lazy"
-        src="/images/press/Money.png"
+        src="/images/press/new/money_color.svg"
         width="130"
       />
     </picture>
