@@ -2,7 +2,7 @@ import { Quote } from './InThePress.interfaces';
 
 export const quotes: Quote[] = [
     {
-        imagePath: '/images/press/TheWashingtonPost.svg',
+        imagePath: '/images/press/new/thewashingtonpost_color.svg',
         imageAlt: 'The Washington Post Logo',
         imageHeight: 46,
         imageWidth: 300,
@@ -12,7 +12,7 @@ export const quotes: Quote[] = [
         newsOutlet: 'The Washington Post',
     },
     {
-        imagePath: '/images/press/yahoo.svg',
+        imagePath: '/images/press/new/yahoo_color.svg',
         imageAlt: 'Yahoo Logo',
         imageHeight: 55,
         imageWidth: 200,
@@ -22,7 +22,7 @@ export const quotes: Quote[] = [
         newsOutlet: 'Yahoo!',
     },
     {
-        imagePath: '/images/press/USAToday.svg',
+        imagePath: '/images/press/new/usatoday_color.svg',
         imageAlt: 'USA Today Logo',
         imageHeight: 70,
         imageWidth: 300,
@@ -32,7 +32,7 @@ export const quotes: Quote[] = [
         newsOutlet: 'USA Today',
     },
     {
-        imagePath: '/images/press/TheSun.svg',
+        imagePath: '/images/press/new/thesun_color.svg',
         imageAlt: 'The Sun Logo',
         imageHeight: 87,
         imageWidth: 200,
@@ -42,7 +42,7 @@ export const quotes: Quote[] = [
         newsOutlet: 'The Sun',
     },
     {
-        imagePath: '/images/press/USAToday.svg',
+        imagePath: '/images/press/new/usatoday_color.svg',
         imageAlt: 'USA Today Logo',
         imageHeight: 70,
         imageWidth: 300,
@@ -52,7 +52,7 @@ export const quotes: Quote[] = [
         newsOutlet: 'USA Today',
     },
     {
-        imagePath: '/images/press/NationalMortgageNews.svg',
+        imagePath: '/images/press/new/nationalmortgagenews_color.svg',
         imageAlt: 'National Mortgage News Logo',
         imageHeight: 25,
         imageWidth: 300,
@@ -62,7 +62,7 @@ export const quotes: Quote[] = [
         newsOutlet: 'National Mortgage News',
     },
     {
-        imagePath: '/images/press/Bankrate.svg',
+        imagePath: '/images/press/new/bankrate_color.svg',
         imageAlt: 'Bankrate News Logo',
         imageHeight: 60,
         imageWidth: 140,
@@ -72,7 +72,7 @@ export const quotes: Quote[] = [
         newsOutlet: 'Bankrate',
     },
     {
-        imagePath: '/images/press/GoBankingRates.svg',
+        imagePath: '/images/press/new/gobankingrates_color.svg',
         imageAlt: 'GoBankingRates News Logo',
         imageHeight: 45,
         imageWidth: 180,
@@ -82,7 +82,7 @@ export const quotes: Quote[] = [
         newsOutlet: 'GoBankingRates',
     },
     {
-        imagePath: '/images/press/MSN.svg',
+        imagePath: '/images/press/new/msn_color.svg',
         imageAlt: 'MSN Logo',
         imageHeight: 45,
         imageWidth: 100,
@@ -92,7 +92,7 @@ export const quotes: Quote[] = [
         newsOutlet: 'MSN',
     },
     {
-        imagePath: '/images/press/LendingTree.svg',
+        imagePath: '/images/press/new/lendingtree_color.svg',
         imageAlt: 'LendingTree News Logo',
         imageHeight: 65,
         imageWidth: 180,
@@ -102,7 +102,7 @@ export const quotes: Quote[] = [
         newsOutlet: 'LendingTree',
     },
     {
-        imagePath: '/images/press/DailyNationToday.png',
+        imagePath: '/images/press/new/dailynationtoday_color',
         imageAlt: 'Daily Nation Today Logo',
         imageHeight: 42,
         imageWidth: 200,
@@ -112,7 +112,7 @@ export const quotes: Quote[] = [
         newsOutlet: 'Daily Nation Today',
     },
     {
-        imagePath: '/images/press/BusinessInsider.svg',
+        imagePath: '/images/press/new/businessinsider_color.svg',
         imageAlt: 'Business Insider Logo',
         imageHeight: 47,
         imageWidth: 150,
@@ -122,7 +122,7 @@ export const quotes: Quote[] = [
         newsOutlet: 'Business Insider',
     },
     {
-        imagePath: '/images/press/GoBankingRates.svg',
+        imagePath: '/images/press/new/gobankingrates_color.svg',
         imageAlt: 'GoBankingRates News Logo',
         imageHeight: 45,
         imageWidth: 180,
@@ -132,7 +132,7 @@ export const quotes: Quote[] = [
         newsOutlet: 'GoBankingRates',
     },
     {
-        imagePath: '/images/press/CNBC.svg',
+        imagePath: '/images/press/new/cnbc_color.svg',
         imageAlt: 'CNBC Logo',
         imageHeight: 28,
         imageWidth: 180,
@@ -142,7 +142,7 @@ export const quotes: Quote[] = [
         newsOutlet: 'CNBC',
     },
     {
-        imagePath: '/images/press/NextAdvisor.svg',
+        imagePath: '/images/press/new/nextadvisor_color.svg',
         imageAlt: 'NextAdvisor Logo',
         imageHeight: 46,
         imageWidth: 200,
@@ -152,7 +152,7 @@ export const quotes: Quote[] = [
         newsOutlet: 'NextAdvisor',
     },
     {
-        imagePath: '/images/press/MSN.svg',
+        imagePath: '/images/press/new/msn_color.svg',
         imageAlt: 'MSN Logo',
         imageHeight: 45,
         imageWidth: 100,
@@ -162,7 +162,7 @@ export const quotes: Quote[] = [
         newsOutlet: 'MSN',
     },
     {
-        imagePath: '/images/press/Forbes.svg',
+        imagePath: '/images/press/new/forbes_color.svg',
         imageAlt: 'Forbes Logo',
         imageHeight: 32,
         imageWidth: 131,
@@ -172,7 +172,7 @@ export const quotes: Quote[] = [
         newsOutlet: 'Forbes',
     },
     {
-        imagePath: '/images/press/Money.png',
+        imagePath: '/images/press/new/money_color.svg',
         imageAlt: 'Money Logo',
         imageHeight: 45,
         imageWidth: 130,
