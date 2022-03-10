@@ -102,7 +102,7 @@ export const quotes: Quote[] = [
         newsOutlet: 'LendingTree',
     },
     {
-        imagePath: '/images/press/new/dailynationtoday_color',
+        imagePath: '/images/press/new/dailynationtoday_color.svg',
         imageAlt: 'Daily Nation Today Logo',
         imageHeight: 42,
         imageWidth: 200,
