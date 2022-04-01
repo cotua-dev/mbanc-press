@@ -984,5 +984,211 @@ exports[`InThePress Component renders 1`] = `
       Money
     </a>
   </div>
+  <hr
+    class="separator"
+  />
+  <div
+    class="quote-wrapper"
+  >
+    <picture>
+      <source
+        srcset="/images/press/new/themortgagereports_color.svg"
+      />
+      <img
+        alt="The Mortgage Reports Logo"
+        class="news-logo "
+        height="35"
+        loading="lazy"
+        src="/images/press/new/themortgagereports_color.svg"
+        width="250"
+      />
+    </picture>
+    <div
+      class="entire-quote"
+    >
+      <span
+        class="quote"
+      >
+        “
+      </span>
+      <blockquote
+        cite="https://themortgagereports.com/90320/home-prices-not-dropping-in-2022-experts-say"
+        class="quote"
+      >
+        <strong
+          class="catch-phrase"
+        >
+          Home buyers: Don't wait for home prices to drop in 2022
+        </strong>
+        <p
+          class="remainder"
+        />
+      </blockquote>
+    </div>
+    <a
+      class="quote-link"
+      href="https://themortgagereports.com/90320/home-prices-not-dropping-in-2022-experts-say"
+      rel="noreferrer"
+      target="_blank"
+    >
+      The Mortgage Reports
+    </a>
+  </div>
+  <hr
+    class="separator"
+  />
+  <div
+    class="quote-wrapper"
+  >
+    <picture>
+      <source
+        srcset="/images/press/new/themortgagereports_color.svg"
+      />
+      <img
+        alt="The Mortgage Reports Logo"
+        class="news-logo "
+        height="35"
+        loading="lazy"
+        src="/images/press/new/themortgagereports_color.svg"
+        width="250"
+      />
+    </picture>
+    <div
+      class="entire-quote"
+    >
+      <span
+        class="quote"
+      >
+        “
+      </span>
+      <blockquote
+        cite="https://themortgagereports.com/89786/jumbo-mortgage-guide"
+        class="quote"
+      >
+        <strong
+          class="catch-phrase"
+        >
+          "You could potentially get a 30-year fixed-rate loan,
+        </strong>
+        <p
+          class="remainder"
+        >
+          or you could get a jumbo mortgage with an adjustable rate, allowing you some flexibility in your loan terms,"
+        </p>
+      </blockquote>
+    </div>
+    <a
+      class="quote-link"
+      href="https://themortgagereports.com/89786/jumbo-mortgage-guide"
+      rel="noreferrer"
+      target="_blank"
+    >
+      The Mortgage Reports
+    </a>
+  </div>
+  <hr
+    class="separator"
+  />
+  <div
+    class="quote-wrapper"
+  >
+    <picture>
+      <source
+        srcset="/images/press/new/mpa_color.svg"
+      />
+      <img
+        alt="MPA Mag Logo"
+        class="news-logo "
+        height="40"
+        loading="lazy"
+        src="/images/press/new/mpa_color.svg"
+        width="130"
+      />
+    </picture>
+    <div
+      class="entire-quote"
+    >
+      <span
+        class="quote"
+      >
+        “
+      </span>
+      <blockquote
+        cite="https://www.mpamag.com/us/specialty/technology/open-banking-how-its-use-is-growing-in-the-us/400842"
+        class="quote"
+      >
+        <strong
+          class="catch-phrase"
+        >
+          "It gives customers better control… [and] allows them to access more services," said Desh Weragoda
+        </strong>
+        <p
+          class="remainder"
+        >
+          chief technology officer for MBANC, a specialized mortgage lender for self-employed business owners and investors.
+        </p>
+      </blockquote>
+    </div>
+    <a
+      class="quote-link"
+      href="https://www.mpamag.com/us/specialty/technology/open-banking-how-its-use-is-growing-in-the-us/400842"
+      rel="noreferrer"
+      target="_blank"
+    >
+      MPA Mag
+    </a>
+  </div>
+  <hr
+    class="separator"
+  />
+  <div
+    class="quote-wrapper"
+  >
+    <picture>
+      <source
+        srcset="/images/press/new/benzinga_color.svg"
+      />
+      <img
+        alt="Benzinga Logo"
+        class="news-logo "
+        height="27"
+        loading="lazy"
+        src="/images/press/new/benzinga_color.svg"
+        width="200"
+      />
+    </picture>
+    <div
+      class="entire-quote"
+    >
+      <span
+        class="quote"
+      >
+        “
+      </span>
+      <blockquote
+        cite="https://www.benzinga.com/markets/cryptocurrency/22/03/26397432/the-crisis-in-housing-part-4-waiting-for-a-crypto-future"
+        class="quote"
+      >
+        <strong
+          class="catch-phrase"
+        >
+          "The immediate thing that comes to mind is people don't trust it right now," he said.
+        </strong>
+        <p
+          class="remainder"
+        >
+          "And even if people did trust it, exchanging crypto is a bit difficult. Think about the processes you have to go through just to take money and turn it into some type of crypto — it's kind of intimidating and it's a big hurdle."
+        </p>
+      </blockquote>
+    </div>
+    <a
+      class="quote-link"
+      href="https://www.benzinga.com/markets/cryptocurrency/22/03/26397432/the-crisis-in-housing-part-4-waiting-for-a-crypto-future"
+      rel="noreferrer"
+      target="_blank"
+    >
+      Benzinga
+    </a>
+  </div>
 </section>
 `;
