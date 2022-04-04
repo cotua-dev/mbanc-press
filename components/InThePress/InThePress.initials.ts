@@ -208,7 +208,7 @@ export const quotes: Quote[] = [
         imageWidth: 130,
         quoteURL: 'https://www.mpamag.com/us/specialty/technology/open-banking-how-its-use-is-growing-in-the-us/400842',
         catchPhrase: '\"It gives customers better control… [and] allows them to access more services,\" said Desh Weragoda',
-        remainder: 'chief technology officer for MBANC, a specialized mortgage lender for self-employed business owners and investors.',
+        remainder: 'chief technology officer for MBANC, a specialized mortgage lender for self-employed business owners and investors. MBANC uses open banking technology to allow customers to share their financial data more easily.',
         newsOutlet: 'MPA Mag',
     },
     {
