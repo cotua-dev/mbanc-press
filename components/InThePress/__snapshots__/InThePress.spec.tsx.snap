@@ -1190,5 +1190,109 @@ exports[`InThePress Component renders 1`] = `
       Benzinga
     </a>
   </div>
+  <hr
+    class="separator"
+  />
+  <div
+    class="quote-wrapper"
+  >
+    <picture>
+      <source
+        srcset="/images/press/ApartmentTherapy.svg"
+      />
+      <img
+        alt="Apartment Therapy Logo"
+        class="news-logo "
+        height="26"
+        loading="lazy"
+        src="/images/press/ApartmentTherapy.svg"
+        width="200"
+      />
+    </picture>
+    <div
+      class="entire-quote"
+    >
+      <span
+        class="quote"
+      >
+        “
+      </span>
+      <blockquote
+        cite="http://www.apartmenttherapy.com/finance-expert-tips-boosting-credit-score-37047775?amp=1"
+        class="quote"
+      >
+        <strong
+          class="catch-phrase"
+        >
+          You can't improve your score if you don't know what it is. "Pull a copy of your credit report from each of the three major national credit bureaus: Equifax, Experian, and TransUnion,"
+        </strong>
+        <p
+          class="remainder"
+        >
+          says Mayer Dallal, managing director at MBANC. "It's free once a year. Then, review each report to see what's hurting or helping your score."
+        </p>
+      </blockquote>
+    </div>
+    <a
+      class="quote-link"
+      href="http://www.apartmenttherapy.com/finance-expert-tips-boosting-credit-score-37047775?amp=1"
+      rel="noreferrer"
+      target="_blank"
+    >
+      Apartment Therapy
+    </a>
+  </div>
+  <hr
+    class="separator"
+  />
+  <div
+    class="quote-wrapper"
+  >
+    <picture>
+      <source
+        srcset="/images/press/USNews.svg"
+      />
+      <img
+        alt="US News Logo"
+        class="news-logo "
+        height="51"
+        loading="lazy"
+        src="/images/press/USNews.svg"
+        width="200"
+      />
+    </picture>
+    <div
+      class="entire-quote"
+    >
+      <span
+        class="quote"
+      >
+        “
+      </span>
+      <blockquote
+        cite="https://money.usnews.com/credit-cards/articles/how-to-improve-your-credit-score"
+        class="quote"
+      >
+        <strong
+          class="catch-phrase"
+        >
+          "Like scores in golf, you want to have low scores in credit utilization - anything under 30% is good,"
+        </strong>
+        <p
+          class="remainder"
+        >
+          says Tabitha Mazzara, director of operations at Mbanc, a mortgage lender headquartered in Manhattan Beach, California.
+        </p>
+      </blockquote>
+    </div>
+    <a
+      class="quote-link"
+      href="https://money.usnews.com/credit-cards/articles/how-to-improve-your-credit-score"
+      rel="noreferrer"
+      target="_blank"
+    >
+      US News
+    </a>
+  </div>
 </section>
 `;
