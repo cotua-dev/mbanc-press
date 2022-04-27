@@ -50,6 +50,14 @@ exports[`InThePress Component renders 1`] = `
     src="https://www.youtube-nocookie.com/embed/59ssQjGAvW4?controls=0&start=695"
     title="YouTube video player"
   />
+  <iframe
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen=""
+    class="aspect-video mb-12 sm:mb-20 w-full sm:w-2/3"
+    frameborder="0"
+    src="https://www.youtube-nocookie.com/embed/JqROPSULe1Q?controls=0&start=703"
+    title="YouTube video player"
+  />
   <hr
     class="separator"
   />
