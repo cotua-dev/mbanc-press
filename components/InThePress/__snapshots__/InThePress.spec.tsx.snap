@@ -58,6 +58,14 @@ exports[`InThePress Component renders 1`] = `
     src="https://www.youtube-nocookie.com/embed/JqROPSULe1Q?controls=0&start=703"
     title="YouTube video player"
   />
+  <iframe
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen=""
+    class="aspect-video mb-12 sm:mb-20 w-full sm:w-2/3"
+    frameborder="0"
+    src="https://www.youtube-nocookie.com/embed/uTw7EEkDtJ4?controls=0"
+    title="YouTube video player"
+  />
   <hr
     class="separator"
   />
@@ -1300,6 +1308,58 @@ exports[`InThePress Component renders 1`] = `
       target="_blank"
     >
       US News
+    </a>
+  </div>
+  <hr
+    class="separator"
+  />
+  <div
+    class="quote-wrapper"
+  >
+    <picture>
+      <source
+        srcset="/images/press/RetailMeNot.svg"
+      />
+      <img
+        alt="Retail Me Not Logo"
+        class="news-logo "
+        height="61"
+        loading="lazy"
+        src="/images/press/RetailMeNot.svg"
+        width="200"
+      />
+    </picture>
+    <div
+      class="entire-quote"
+    >
+      <span
+        class="quote"
+      >
+        “
+      </span>
+      <blockquote
+        cite="https://www.retailmenot.com/blog/tips-for-buying-your-first-home.html"
+        class="quote"
+      >
+        <strong
+          class="catch-phrase"
+        >
+          According to Mayer Dallal, managing director of mortgage lender MBANC,
+        </strong>
+        <p
+          class="remainder"
+        >
+          “Choose a lender with fast closing times because sellers are enticed by the offer of a fast close. MBANC offers loans that close in 21 days.”
+        </p>
+      </blockquote>
+    </div>
+    <a
+      class="quote-link"
+      href="https://www.retailmenot.com/blog/tips-for-buying-your-first-home.html"
+      rel="noreferrer"
+      target="_blank"
+    >
+      Retail Me Not
     </a>
   </div>
 </section>

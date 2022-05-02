@@ -47,6 +47,14 @@ export function InThePress(): JSX.Element {
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                 allowFullScreen
             ></iframe>
+            <iframe
+                className="aspect-video mb-12 sm:mb-20 w-full sm:w-2/3"
+                src="https://www.youtube-nocookie.com/embed/uTw7EEkDtJ4?controls=0"
+                title="YouTube video player"
+                frameBorder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                allowFullScreen
+            ></iframe>
             {quotes.map((quote: Quote) => (
                 <Fragment key={quote.quoteURL}>
                     <hr className={styles['separator']}/>
