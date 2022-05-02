@@ -241,4 +241,14 @@ export const quotes: Quote[] = [
         remainder: 'says Tabitha Mazzara, director of operations at Mbanc, a mortgage lender headquartered in Manhattan Beach, California.',
         newsOutlet: 'US News',
     },
+    {
+        imagePath: '/images/press/RetailMeNot.svg',
+        imageAlt: 'Retail Me Not Logo',
+        imageHeight: 61,
+        imageWidth: 200,
+        quoteURL: 'https://www.retailmenot.com/blog/tips-for-buying-your-first-home.html',
+        catchPhrase: 'According to Mayer Dallal, managing director of mortgage lender MBANC,',
+        remainder: '“Choose a lender with fast closing times because sellers are enticed by the offer of a fast close. MBANC offers loans that close in 21 days.”',
+        newsOutlet: 'Retail Me Not',
+    },
 ];
