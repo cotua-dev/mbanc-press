@@ -1362,5 +1362,55 @@ exports[`InThePress Component renders 1`] = `
       Retail Me Not
     </a>
   </div>
+  <hr
+    class="separator"
+  />
+  <div
+    class="quote-wrapper"
+  >
+    <picture>
+      <source
+        srcset="/images/press/new/businessinsider_color.svg"
+      />
+      <img
+        alt="Business Insider Logo"
+        class="news-logo "
+        height="47"
+        loading="lazy"
+        src="/images/press/new/businessinsider_color.svg"
+        width="150"
+      />
+    </picture>
+    <div
+      class="entire-quote"
+    >
+      <span
+        class="quote"
+      >
+        “
+      </span>
+      <blockquote
+        cite="https://www.businessinsider.com/personal-finance/cryptocurrency-backed-loans-over-traditional-mortgage-2022-6"
+        class="quote"
+      >
+        <strong
+          class="catch-phrase"
+        >
+          "Put your crypto in a custodian account, which is basically an intermediary that holds your crypto, and they do a margin call on it."
+        </strong>
+        <p
+          class="remainder"
+        />
+      </blockquote>
+    </div>
+    <a
+      class="quote-link"
+      href="https://www.businessinsider.com/personal-finance/cryptocurrency-backed-loans-over-traditional-mortgage-2022-6"
+      rel="noreferrer"
+      target="_blank"
+    >
+      Business Insider
+    </a>
+  </div>
 </section>
 `;

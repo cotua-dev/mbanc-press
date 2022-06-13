@@ -251,4 +251,14 @@ export const quotes: Quote[] = [
         remainder: '“Choose a lender with fast closing times because sellers are enticed by the offer of a fast close. MBANC offers loans that close in 21 days.”',
         newsOutlet: 'Retail Me Not',
     },
+    {
+        imagePath: '/images/press/new/businessinsider_color.svg',
+        imageAlt: 'Business Insider Logo',
+        imageHeight: 47,
+        imageWidth: 150,
+        quoteURL: 'https://www.businessinsider.com/personal-finance/cryptocurrency-backed-loans-over-traditional-mortgage-2022-6',
+        catchPhrase: `"Put your crypto in a custodian account, which is basically an intermediary that holds your crypto, and they do a margin call on it."`,
+        remainder: ``,
+        newsOutlet: 'Business Insider',
+    },
 ];
